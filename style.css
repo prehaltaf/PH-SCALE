@@ -1,0 +1,85 @@
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            height: 100vh;
+            background-color: #f0f0f0;
+        }
+
+        .ph-scale {
+            width: 50%;
+            border: 2px solid #ccc;
+        }
+
+        .header {
+            background-color: #ddd;
+            text-align: center;
+            padding: 10px;
+            font-weight: bold;
+            font-size: 18px;
+        }
+
+        .scale {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .level {
+            padding: 8px 8px;
+            color: white;
+            font-size: 14px;
+        }
+        .very-alkaline {
+            background-color: #0688e4;
+        }
+        .alkaline_one {
+            background-color: #0692e8;
+        }
+        .alkaline_two {
+            background-color: #00a0e6;
+        }
+        .alkaline_three {
+            background-color: #30aae9;
+        }
+        .alkaline_four {
+            background-color: #54b6ed;
+        }
+        .alkaline_five {
+            background-color: #72c1f0;
+        }
+        .alkaline_six {
+            background-color: #8ccaf2;
+        }
+        .neutral {
+            background-color: #00bb88;
+        }
+        .acid_one {
+            background-color: #f5b0cc;
+        }
+        .acid_two {
+            background-color: #f69fc0;
+            
+        }
+        .acid_three {
+            background-color: #f58cb2;
+            
+        }
+        .acid_four {
+            background-color: #f47ba6;
+            
+        }
+        .acid_five {
+            background-color: #f36a98;
+        }
+        .acid_six {
+            background-color: #f45a8b;
+            
+        }
+        .very-acid {
+            background-color: #ee3e80;
+
+        }
